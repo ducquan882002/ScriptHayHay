@@ -1,0 +1,111 @@
+
+lv18_girl.png
+size: 748,748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bontam
+  rotate: false
+  xy: 2, 368
+  size: 632, 138
+  orig: 632, 138
+  offset: 0, 0
+  index: -1
+bontam2
+  rotate: false
+  xy: 2, 508
+  size: 632, 238
+  orig: 632, 238
+  offset: 0, 0
+  index: -1
+girl1/body
+  rotate: false
+  xy: 2, 111
+  size: 239, 255
+  orig: 239, 255
+  offset: 0, 0
+  index: -1
+girl1/cangchan1
+  rotate: true
+  xy: 243, 59
+  size: 307, 151
+  orig: 307, 151
+  offset: 0, 0
+  index: -1
+girl1/cangchan2
+  rotate: false
+  xy: 396, 21
+  size: 310, 137
+  orig: 310, 137
+  offset: 0, 0
+  index: -1
+girl1/cangtay1
+  rotate: false
+  xy: 636, 573
+  size: 91, 173
+  orig: 91, 173
+  offset: 0, 0
+  index: -1
+girl1/cangtay2
+  rotate: false
+  xy: 636, 444
+  size: 100, 127
+  orig: 100, 127
+  offset: 0, 0
+  index: -1
+girl1/canhtay1
+  rotate: true
+  xy: 636, 328
+  size: 114, 99
+  orig: 114, 99
+  offset: 0, 0
+  index: -1
+girl1/eye
+  rotate: true
+  xy: 2, 8
+  size: 101, 53
+  orig: 101, 53
+  offset: 0, 0
+  index: -1
+girl1/head
+  rotate: false
+  xy: 396, 160
+  size: 216, 206
+  orig: 216, 206
+  offset: 0, 0
+  index: -1
+girl1/iris
+  rotate: true
+  xy: 729, 731
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+girl1/lmay
+  rotate: false
+  xy: 57, 2
+  size: 79, 27
+  orig: 79, 27
+  offset: 0, 0
+  index: -1
+girl1/lmay1
+  rotate: true
+  xy: 57, 31
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+girl1/mom
+  rotate: true
+  xy: 91, 56
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+girl1/mom2
+  rotate: true
+  xy: 127, 59
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
