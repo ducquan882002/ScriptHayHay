@@ -1,0 +1,41 @@
+
+lv18_curtain.png
+size: 688,688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy1/bodyg
+  rotate: true
+  xy: 2, 57
+  size: 134, 275
+  orig: 134, 275
+  offset: 0, 0
+  index: -1
+boy1/canhtay2g
+  rotate: true
+  xy: 279, 16
+  size: 175, 219
+  orig: 175, 219
+  offset: 0, 0
+  index: -1
+boy1/hand1g
+  rotate: false
+  xy: 609, 477
+  size: 74, 206
+  orig: 74, 206
+  offset: 0, 0
+  index: -1
+boy1/head
+  rotate: false
+  xy: 500, 38
+  size: 141, 153
+  orig: 141, 153
+  offset: 0, 0
+  index: -1
+rem
+  rotate: false
+  xy: 2, 193
+  size: 605, 490
+  orig: 605, 490
+  offset: 0, 0
+  index: -1
