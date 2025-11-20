@@ -1,0 +1,20 @@
+
+lv18_bubble.png
+size: 656,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb
+  rotate: false
+  xy: 2, 2
+  size: 596, 144
+  orig: 596, 144
+  offset: 0, 0
+  index: -1
+bb4
+  rotate: false
+  xy: 600, 95
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

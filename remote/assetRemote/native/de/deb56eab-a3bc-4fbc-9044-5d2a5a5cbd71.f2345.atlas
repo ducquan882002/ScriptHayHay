@@ -1,0 +1,20 @@
+
+lv17_balloon.png
+size: 484,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 2, 187
+  size: 253, 293
+  orig: 253, 293
+  offset: 0, 0
+  index: -1
+flag
+  rotate: true
+  xy: 257, 165
+  size: 315, 223
+  orig: 315, 223
+  offset: 0, 0
+  index: -1
