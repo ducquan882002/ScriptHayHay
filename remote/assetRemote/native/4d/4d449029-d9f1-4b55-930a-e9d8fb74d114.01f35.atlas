@@ -1,0 +1,272 @@
+
+lv27.png
+size: 1016,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy/eye_l
+  rotate: true
+  xy: 690, 495
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+boy/eye_r
+  rotate: false
+  xy: 938, 570
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+boy/eyebrow
+  rotate: false
+  xy: 500, 378
+  size: 94, 33
+  orig: 94, 33
+  offset: 0, 0
+  index: -1
+boy/face
+  rotate: true
+  xy: 418, 136
+  size: 233, 253
+  orig: 233, 253
+  offset: 0, 0
+  index: -1
+boy/iris
+  rotate: true
+  xy: 341, 14
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+boy/iris2
+  rotate: true
+  xy: 377, 17
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+boy/mouth_smile4
+  rotate: false
+  xy: 801, 37
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+boy/nose1
+  rotate: true
+  xy: 895, 38
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+boy/scar
+  rotate: false
+  xy: 361, 16
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+boy2/body
+  rotate: false
+  xy: 666, 744
+  size: 152, 268
+  orig: 152, 268
+  offset: 0, 0
+  index: -1
+boy2/chan1
+  rotate: false
+  xy: 500, 660
+  size: 164, 352
+  orig: 164, 352
+  offset: 0, 0
+  index: -1
+boy2/hand2
+  rotate: false
+  xy: 905, 761
+  size: 107, 251
+  orig: 107, 251
+  offset: 0, 0
+  index: -1
+boy2/tay1
+  rotate: true
+  xy: 666, 684
+  size: 58, 277
+  orig: 58, 277
+  offset: 0, 0
+  index: -1
+door2
+  rotate: false
+  xy: 2, 371
+  size: 496, 641
+  orig: 496, 641
+  offset: 0, 0
+  index: -1
+girl/eye
+  rotate: true
+  xy: 945, 629
+  size: 130, 59
+  orig: 130, 59
+  offset: 0, 0
+  index: -1
+girl/eyebrow2
+  rotate: false
+  xy: 155, 11
+  size: 97, 19
+  orig: 97, 19
+  offset: 0, 0
+  index: -1
+girl/face
+  rotate: true
+  xy: 500, 474
+  size: 184, 188
+  orig: 184, 188
+  offset: 0, 0
+  index: -1
+girl/hair
+  rotate: true
+  xy: 2, 32
+  size: 337, 414
+  orig: 337, 414
+  offset: 0, 0
+  index: -1
+girl/iris1
+  rotate: true
+  xy: 320, 14
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+girl/iris2
+  rotate: true
+  xy: 254, 13
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+girl/mouth_smile3
+  rotate: true
+  xy: 938, 503
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+girl/nose
+  rotate: true
+  xy: 32, 9
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+girl/nose2
+  rotate: true
+  xy: 2, 5
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+girl2/body
+  rotate: true
+  xy: 673, 309
+  size: 163, 317
+  orig: 163, 317
+  offset: 0, 0
+  index: -1
+girl2/canhtay2
+  rotate: true
+  xy: 585, 18
+  size: 116, 214
+  orig: 116, 214
+  offset: 0, 0
+  index: -1
+girl2/foot2
+  rotate: true
+  xy: 690, 540
+  size: 142, 246
+  orig: 142, 246
+  offset: 0, 0
+  index: -1
+girl2/tay1
+  rotate: false
+  xy: 820, 754
+  size: 83, 258
+  orig: 83, 258
+  offset: 0, 0
+  index: -1
+scare/boyscare
+  rotate: true
+  xy: 500, 413
+  size: 59, 165
+  orig: 59, 165
+  offset: 0, 0
+  index: -1
+scare/girlscare
+  rotate: false
+  xy: 673, 152
+  size: 68, 155
+  orig: 68, 155
+  offset: 0, 0
+  index: -1
+scare/mouth
+  rotate: true
+  xy: 394, 14
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+scare/run
+  rotate: true
+  xy: 276, 14
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+thang/back
+  rotate: true
+  xy: 418, 9
+  size: 125, 165
+  orig: 125, 165
+  offset: 0, 0
+  index: -1
+thang/door1
+  rotate: false
+  xy: 743, 160
+  size: 53, 147
+  orig: 53, 147
+  offset: 0, 0
+  index: -1
+thang/door2
+  rotate: false
+  xy: 743, 160
+  size: 53, 147
+  orig: 53, 147
+  offset: 0, 0
+  index: -1
+thang/down
+  rotate: true
+  xy: 65, 9
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+thang/down2
+  rotate: true
+  xy: 95, 9
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+thang/front
+  rotate: false
+  xy: 801, 103
+  size: 180, 204
+  orig: 180, 204
+  offset: 0, 0
+  index: -1
+thang/up
+  rotate: true
+  xy: 125, 9
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
