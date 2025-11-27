@@ -1,0 +1,132 @@
+
+lv18_boy.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boncau
+  rotate: false
+  xy: 2, 26
+  size: 210, 209
+  orig: 210, 209
+  offset: 0, 0
+  index: -1
+boy/angry
+  rotate: false
+  xy: 347, 239
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+boy/eye_l
+  rotate: false
+  xy: 358, 14
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+boy/eye_r
+  rotate: true
+  xy: 299, 13
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+boy/eyebrow_sad
+  rotate: false
+  xy: 299, 65
+  size: 104, 34
+  orig: 104, 34
+  offset: 0, 0
+  index: -1
+boy/eyelid
+  rotate: false
+  xy: 403, 9
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+boy/eyelid2
+  rotate: false
+  xy: 302, 239
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+boy/face
+  rotate: false
+  xy: 2, 237
+  size: 233, 253
+  orig: 233, 253
+  offset: 0, 0
+  index: -1
+boy/iris
+  rotate: false
+  xy: 455, 26
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+boy/iris2
+  rotate: true
+  xy: 475, 86
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+boy/mouth_sad1
+  rotate: false
+  xy: 237, 239
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+boy/mouth_scare1
+  rotate: false
+  xy: 405, 46
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+boy/nose1
+  rotate: true
+  xy: 214, 36
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+boy/scar
+  rotate: false
+  xy: 376, 255
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+boy1/body
+  rotate: true
+  xy: 214, 101
+  size: 134, 275
+  orig: 134, 275
+  offset: 0, 0
+  index: -1
+boy1/canhtay2
+  rotate: false
+  xy: 237, 271
+  size: 175, 219
+  orig: 175, 219
+  offset: 0, 0
+  index: -1
+boy1/hand1
+  rotate: false
+  xy: 414, 284
+  size: 74, 206
+  orig: 74, 206
+  offset: 0, 0
+  index: -1
+girl/water
+  rotate: true
+  xy: 2, 10
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1

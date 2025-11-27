@@ -1,0 +1,391 @@
+
+lv16.png
+size: 936,936
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+30
+  rotate: false
+  xy: 2, 29
+  size: 163, 68
+  orig: 163, 68
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 626, 405
+  size: 112, 216
+  orig: 112, 216
+  offset: 0, 0
+  index: -1
+boy/angry
+  rotate: false
+  xy: 815, 538
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+boy/eye_l
+  rotate: true
+  xy: 764, 525
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+boy/eye_r
+  rotate: true
+  xy: 651, 9
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+boy/eyebrow
+  rotate: false
+  xy: 783, 10
+  size: 94, 33
+  orig: 94, 33
+  offset: 0, 0
+  index: -1
+boy/eyebrow_sad
+  rotate: false
+  xy: 289, 5
+  size: 104, 34
+  orig: 104, 34
+  offset: 0, 0
+  index: -1
+boy/eyelid
+  rotate: false
+  xy: 237, 4
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+boy/eyelid2
+  rotate: false
+  xy: 879, 13
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+boy/face
+  rotate: true
+  xy: 239, 284
+  size: 233, 253
+  orig: 233, 253
+  offset: 0, 0
+  index: -1
+boy/iris
+  rotate: true
+  xy: 872, 815
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+boy/iris2
+  rotate: true
+  xy: 726, 3
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+boy/mouth_sad1
+  rotate: false
+  xy: 844, 447
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+boy/mouth_smile3
+  rotate: true
+  xy: 872, 833
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+boy/nose1
+  rotate: false
+  xy: 404, 70
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+boy/scar
+  rotate: false
+  xy: 710, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+boy1/body
+  rotate: false
+  xy: 494, 212
+  size: 130, 305
+  orig: 130, 305
+  offset: 0, 0
+  index: -1
+boy1/boy-hand1
+  rotate: false
+  xy: 490, 6
+  size: 159, 53
+  orig: 159, 53
+  offset: 0, 0
+  index: -1
+boy1/canhtay1
+  rotate: false
+  xy: 176, 303
+  size: 61, 111
+  orig: 61, 111
+  offset: 0, 0
+  index: -1
+boy1/canhtay2
+  rotate: false
+  xy: 404, 155
+  size: 64, 127
+  orig: 64, 127
+  offset: 0, 0
+  index: -1
+boy1/hand1
+  rotate: false
+  xy: 764, 808
+  size: 106, 125
+  orig: 106, 125
+  offset: 0, 0
+  index: -1
+boy1/money
+  rotate: true
+  xy: 783, 97
+  size: 121, 109
+  orig: 121, 109
+  offset: 0, 0
+  index: -1
+chicken
+  rotate: true
+  xy: 779, 239
+  size: 164, 102
+  orig: 164, 102
+  offset: 0, 0
+  index: -1
+finger
+  rotate: false
+  xy: 746, 212
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+girl/eye
+  rotate: false
+  xy: 764, 570
+  size: 130, 59
+  orig: 130, 59
+  offset: 0, 0
+  index: -1
+girl/eye_2
+  rotate: false
+  xy: 783, 45
+  size: 134, 50
+  orig: 134, 50
+  offset: 0, 0
+  index: -1
+girl/eyebrow7
+  rotate: false
+  xy: 71, 4
+  size: 95, 23
+  orig: 95, 23
+  offset: 0, 0
+  index: -1
+girl/eyebrown5
+  rotate: true
+  xy: 470, 152
+  size: 97, 19
+  orig: 97, 19
+  offset: 0, 0
+  index: -1
+girl/face
+  rotate: false
+  xy: 239, 520
+  size: 184, 188
+  orig: 184, 188
+  offset: 0, 0
+  index: -1
+girl/hair
+  rotate: false
+  xy: 425, 519
+  size: 337, 414
+  orig: 337, 414
+  offset: 0, 0
+  index: -1
+girl/iris1
+  rotate: true
+  xy: 395, 8
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+girl/iris2
+  rotate: true
+  xy: 819, 220
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+girl/mouth_idle
+  rotate: true
+  xy: 469, 97
+  size: 53, 17
+  orig: 53, 17
+  offset: 0, 0
+  index: -1
+girl/mouth_smile
+  rotate: true
+  xy: 844, 479
+  size: 89, 46
+  orig: 89, 46
+  offset: 0, 0
+  index: -1
+girl/nose
+  rotate: false
+  xy: 470, 251
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+girl/water
+  rotate: false
+  xy: 469, 70
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+girl1/body
+  rotate: false
+  xy: 2, 99
+  size: 172, 315
+  orig: 172, 315
+  offset: 0, 0
+  index: -1
+girl1/canhtay1
+  rotate: false
+  xy: 176, 194
+  size: 60, 107
+  orig: 60, 107
+  offset: 0, 0
+  index: -1
+girl1/canhtay2
+  rotate: false
+  xy: 870, 699
+  size: 59, 107
+  orig: 59, 107
+  offset: 0, 0
+  index: -1
+girl1/girl-hand1
+  rotate: false
+  xy: 764, 631
+  size: 134, 50
+  orig: 134, 50
+  offset: 0, 0
+  index: -1
+girl1/hand1
+  rotate: false
+  xy: 404, 26
+  size: 84, 42
+  orig: 84, 42
+  offset: 0, 0
+  index: -1
+girl1/hand2
+  rotate: false
+  xy: 626, 215
+  size: 118, 51
+  orig: 118, 51
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 764, 683
+  size: 104, 123
+  orig: 104, 123
+  offset: 0, 0
+  index: -1
+kepper/dau
+  rotate: true
+  xy: 626, 268
+  size: 135, 151
+  orig: 135, 151
+  offset: 0, 0
+  index: -1
+kepper/eye2
+  rotate: false
+  xy: 710, 18
+  size: 71, 41
+  orig: 71, 41
+  offset: 0, 0
+  index: -1
+kepper/eye3
+  rotate: true
+  xy: 892, 506
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+kepper/lmay
+  rotate: false
+  xy: 416, 9
+  size: 66, 15
+  orig: 66, 15
+  offset: 0, 0
+  index: -1
+kepper/lmay2
+  rotate: false
+  xy: 2, 3
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+kepper/mom
+  rotate: false
+  xy: 778, 220
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+kepper/mom2
+  rotate: false
+  xy: 841, 221
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+kepper/tay22
+  rotate: false
+  xy: 176, 15
+  size: 59, 177
+  orig: 59, 177
+  offset: 0, 0
+  index: -1
+kepper/than
+  rotate: false
+  xy: 238, 41
+  size: 164, 241
+  orig: 164, 241
+  offset: 0, 0
+  index: -1
+price
+  rotate: true
+  xy: 2, 416
+  size: 292, 235
+  orig: 292, 235
+  offset: 0, 0
+  index: -1
+price2
+  rotate: false
+  xy: 491, 61
+  size: 290, 149
+  orig: 290, 149
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 2, 710
+  size: 421, 223
+  orig: 421, 223
+  offset: 0, 0
+  index: -1
